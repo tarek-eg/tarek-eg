@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
 <h3 align="center">A passionate Full stack software engineer</h3>
+
 - 💻 I’m currently working at **Zalando Payments**
 
 - 🌱 I’m currently learning **Block chain**
